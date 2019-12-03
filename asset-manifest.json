@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/45bet-casino-platform-build/static/css/main.6191326c.chunk.css",
+    "main.js": "/45bet-casino-platform-build/static/js/main.c61b06e2.chunk.js",
+    "main.js.map": "/45bet-casino-platform-build/static/js/main.c61b06e2.chunk.js.map",
+    "runtime-main.js": "/45bet-casino-platform-build/static/js/runtime-main.3030e229.js",
+    "runtime-main.js.map": "/45bet-casino-platform-build/static/js/runtime-main.3030e229.js.map",
+    "static/js/2.22d62533.chunk.js": "/45bet-casino-platform-build/static/js/2.22d62533.chunk.js",
+    "static/js/2.22d62533.chunk.js.map": "/45bet-casino-platform-build/static/js/2.22d62533.chunk.js.map",
+    "index.html": "/45bet-casino-platform-build/index.html",
+    "precache-manifest.eec57ac9f08820f646e7c0520b6eab1f.js": "/45bet-casino-platform-build/precache-manifest.eec57ac9f08820f646e7c0520b6eab1f.js",
+    "service-worker.js": "/45bet-casino-platform-build/service-worker.js",
+    "static/css/main.6191326c.chunk.css.map": "/45bet-casino-platform-build/static/css/main.6191326c.chunk.css.map",
+    "static/media/3,4ab857badb3d.webp": "/45bet-casino-platform-build/static/media/3,4ab857badb3d.92797f4e.webp",
+    "static/media/style.css": "/45bet-casino-platform-build/static/media/Roboto-Thin.f09d9b5e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3030e229.js",
+    "static/js/2.22d62533.chunk.js",
+    "static/css/main.6191326c.chunk.css",
+    "static/js/main.c61b06e2.chunk.js"
+  ]
+}
