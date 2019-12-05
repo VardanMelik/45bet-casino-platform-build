@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/45bet-casino-platform-build/precache-manifest.eec57ac9f08820f646e7c0520b6eab1f.js"
+  "/45bet-casino-platform-build/precache-manifest.03caa54051c02504f9000fc6482b402a.js"
 );
 
 self.addEventListener('message', (event) => {
