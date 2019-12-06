@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/45bet-casino-platform-build/static/css/main.e47bde58.chunk.css",
-    "main.js": "/45bet-casino-platform-build/static/js/main.76a5abb1.chunk.js",
-    "main.js.map": "/45bet-casino-platform-build/static/js/main.76a5abb1.chunk.js.map",
+    "main.css": "/45bet-casino-platform-build/static/css/main.8b05332c.chunk.css",
+    "main.js": "/45bet-casino-platform-build/static/js/main.65acef3a.chunk.js",
+    "main.js.map": "/45bet-casino-platform-build/static/js/main.65acef3a.chunk.js.map",
     "runtime-main.js": "/45bet-casino-platform-build/static/js/runtime-main.3030e229.js",
     "runtime-main.js.map": "/45bet-casino-platform-build/static/js/runtime-main.3030e229.js.map",
-    "static/js/2.0d193050.chunk.js": "/45bet-casino-platform-build/static/js/2.0d193050.chunk.js",
-    "static/js/2.0d193050.chunk.js.map": "/45bet-casino-platform-build/static/js/2.0d193050.chunk.js.map",
+    "static/js/2.b834ab85.chunk.js": "/45bet-casino-platform-build/static/js/2.b834ab85.chunk.js",
+    "static/js/2.b834ab85.chunk.js.map": "/45bet-casino-platform-build/static/js/2.b834ab85.chunk.js.map",
     "index.html": "/45bet-casino-platform-build/index.html",
-    "precache-manifest.03caa54051c02504f9000fc6482b402a.js": "/45bet-casino-platform-build/precache-manifest.03caa54051c02504f9000fc6482b402a.js",
+    "precache-manifest.44755252e8655021fd20defd08f4dae1.js": "/45bet-casino-platform-build/precache-manifest.44755252e8655021fd20defd08f4dae1.js",
     "service-worker.js": "/45bet-casino-platform-build/service-worker.js",
-    "static/css/main.e47bde58.chunk.css.map": "/45bet-casino-platform-build/static/css/main.e47bde58.chunk.css.map",
+    "static/css/main.8b05332c.chunk.css.map": "/45bet-casino-platform-build/static/css/main.8b05332c.chunk.css.map",
     "static/media/style.css": "/45bet-casino-platform-build/static/media/Roboto-Thin.f09d9b5e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3030e229.js",
-    "static/js/2.0d193050.chunk.js",
-    "static/css/main.e47bde58.chunk.css",
-    "static/js/main.76a5abb1.chunk.js"
+    "static/js/2.b834ab85.chunk.js",
+    "static/css/main.8b05332c.chunk.css",
+    "static/js/main.65acef3a.chunk.js"
   ]
 }
